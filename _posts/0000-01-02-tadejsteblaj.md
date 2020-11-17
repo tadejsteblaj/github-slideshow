@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Moj tekst 122333
+Neki novega
 Use the left arrow to go back!
